@@ -1,15 +1,10 @@
-package toon.syswin.greendaodemo_my;
+package mao.test.greendaodemo_my;
 
 import android.app.Application;
 import android.database.sqlite.SQLiteDatabase;
 
-import com.syswin.maolin.DaoMaster;
-import com.syswin.maolin.DaoSession;
-
-/**
- * Created by 600029 on 2017/8/22.
- */
-
+import com.haha.maolin.DaoMaster;
+import com.haha.maolin.DaoSession;
 public class MyApplication extends Application{
 
     private DaoMaster.DevOpenHelper mHelper;

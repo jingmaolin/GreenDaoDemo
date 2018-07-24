@@ -5,7 +5,7 @@ android {
     compileSdkVersion 25
     buildToolsVersion "25.0.2"
     defaultConfig {
-        applicationId "toon.syswin.greendaodemo_my"
+        applicationId "mao.haha.greendaodemo_my"
         minSdkVersion 15
         targetSdkVersion 25
         versionCode 1
@@ -20,10 +20,9 @@ android {
     }
     greendao {
         schemaVersion 1
-        daoPackage 'com.syswin.maolin'
+        daoPackage 'com.haha.maolin'
         targetGenDir 'src/main/java'
     }
-
 }
 
 dependencies {

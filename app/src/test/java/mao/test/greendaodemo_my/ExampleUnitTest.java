@@ -1,4 +1,4 @@
-package toon.syswin.greendaodemo_my;
+package mao.test.greendaodemo_my;
 
 import org.junit.Test;
 

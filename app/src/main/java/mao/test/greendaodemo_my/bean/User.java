@@ -1,12 +1,10 @@
-package toon.syswin.greendaodemo_my.bean;
+package mao.test.greendaodemo_my.bean;
 
 import org.greenrobot.greendao.annotation.Entity;
 import org.greenrobot.greendao.annotation.Id;
 import org.greenrobot.greendao.annotation.Generated;
 
-/**
- * Created by 600029 on 2017/8/22.
- */
+
 @Entity
 public class User{
     @Id
